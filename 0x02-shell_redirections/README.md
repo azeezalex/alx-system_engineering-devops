@@ -10,3 +10,4 @@ Save current state of directory
 Duplicate last line
 
 Don't just count your directories, make your directories count
+Create a script that displays the 10 newest files in the current directory.
